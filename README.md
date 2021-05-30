@@ -1,2 +1,2 @@
 # sagemaker_deploy_project
-Machine learning engineer nanodegree deploy a sentiment analysis project
+Udacity machine learning engineer nanodegree deploy a sentiment analysis project
