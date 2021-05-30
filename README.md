@@ -1,2 +1,2 @@
 # sagemaker_deploy_project
-Machine learning engineer nanodegree project
+Udacity machine learning engineer nanodegree project
